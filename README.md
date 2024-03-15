@@ -1,5 +1,5 @@
-# In-depth-analysis-of-company-s-revenue
-In-depth analysis of company's revenue using pandas and matplotlib.
+# In-depth analysis of company revenue
+In-depth analysis of the company's revenue using pandas and matplotlib.
 ## Data Set link - https://www.kaggle.com/datasets/atharvaarya25/financials
 ## Project Overview
 ### Dataset Description
